@@ -6,7 +6,7 @@ I'm a passionate **Software Engineer** specializing in building scalable, high-p
 
 - 🔭 **Currently working on**: Erosy LTDA
 - 🌱 **Learning**: Microservices, Cloud Architecture, and Continuous Studies
-- 💬 **Ask me about**: Go, Node.js, Python, Backend Development, and System Design
+- 💬 **Ask me about**: Go, Node.js, Python, Backend Development.
 - 📫 **Reach me at**: [yjuniorbrgc@gmail.com](mailto:yjuniorbrgc@gmail.com)
 
 ---
